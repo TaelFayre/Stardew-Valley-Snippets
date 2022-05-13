@@ -36,6 +36,6 @@ The easiest way is to start a git issue, I will attempt to answer ASAP else I ho
 
 # Source
 
-[Github](https://github.com/abusaidm/html-snippets)
+[Github](https://github.com/TaelFayre/Stardew-Valley-Snippets)
 
 ** Enjoy!**
