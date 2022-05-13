@@ -1,0 +1,22 @@
+{
+    "name": "stardew-snippets",
+    "displayName": "Stardew Modding Snippets",
+    "description": "Snippets for Stardew Valley Mod Frameworks",
+    "version": "0.1.0",
+    "publisher": "Tael-F",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.9.1"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "json",
+                "path": "./snippets/json.json"
+            }
+        ]
+    }
+}
