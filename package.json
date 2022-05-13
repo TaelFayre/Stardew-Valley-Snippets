@@ -3,8 +3,12 @@
     "displayName": "Stardew Modding Snippets",
     "description": "Snippets for Stardew Valley Mod Frameworks",
     "version": "0.1.0",
-    "publisher": "Tael-F",
+    "publisher": "TaelFayre",
     "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TaelFayre/Stardew-Valley-Snippets"
+    },
     "engines": {
         "vscode": "^1.9.1"
     },
@@ -18,9 +22,5 @@
                 "path": "./snippets/json.json"
             }
         ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/TaelFayre/Stardew-Valley-Snippets"
     }
 }
